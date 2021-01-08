@@ -88,12 +88,11 @@ La docencia docente propuesta puede experimentar alguna modificación en funció
 
 La evaluación propuesta puede experimentar alguna modificación en función de las restricciones a la presencialidad que imposinles autoridades sanitarias.
 
-Avaluació
-L'avaluació de l'assignatura es durà a terme de manera continua al llarg del curs tenint en compte els següents criteris: Per aprovar l'assignatura serà imprescindible obtenir una mitjana igual o superior a 5. Al llarg del curs es realitzaran un mínim de 3 proves escrites, que contaran en total un 75% en la nota final. Es preveu que la primera prova es realitzarà en la sessió 5, la segona en la 10, i la darrera en la sessió 15.
-
-Addicionalment, es realitzaran altres exercicis, a classe i/o a través del Campus Virtual, que serviran per complementar la nota final de l'assignatura (25% de la nota).
-
 ### Evaluación
+
+La evaluación de la asignatura se llevará a cabo de manera continua a lo largo del curso teniendo en cuenta los siguientes criterios: Para aprobar la asignatura será imprescindible obtener una media igual o superior a 5. A lo largo del curso se realizarán un mínimo de 3 pruebas escritas, que contarán en total un 75% en la nota final. Se prevé que la primera prueba se realizará en la sesión 5, la segunda en la 10, y la última en la sesión 15.
+
+Adicionalmente, se realizarán otros ejercicios, en clase y / o a través del Campus Virtual, que servirán para complementar la nota final de la asignatura (25% de la nota).
 Los alumnos que hayan participado en la evaluación continua y suspendan podrán recuperarla siempre que hayan obtenido una nota mínima de 3,5. Todas las actividades, tanto de teoría como de prácticas (seminarios y laboratorios), son recuperables siempre que el alumnado haya sido evaluado en un mínimo de 2/3 partes del total de actividades evaluables. La nota obtenida en la prueba de recuperación será la nota definitiva de la materia final. De acuerdo con lo aprobado por la Junta de Facultad, se destinarán las tres últimas semanas del curso (semanas 17,18 y 19) a estas actividades
 
 El procedimiento de revisión de las calificaciones es automático y se producen inmediatamente después de la publicación de las notas: Los alumnos que quieran revisar su trabajo, deberán solicitar la revisión por mail, en el plazo que se les especificará.
@@ -113,6 +112,7 @@ En los casos que el estudiante no pueda asistir a las prueba escrita de final de
 Juan Torres, 'Introducción a la Economía'. Piramide 2012
 
 *Libros de texto recomendados*: 
+
 Paul Krugman, Robert Wells & Katheryn Graddy, 'Fundamentos de Economía', Editorial Reverté, 2013.
 
 Mankiw, Gregory N., 'Principios de Economia', Thomson-Paraninfo, 6ª ed., 2012.
