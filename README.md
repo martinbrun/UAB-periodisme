@@ -4,7 +4,11 @@
 ## Universitat Autònoma de Barcelona
 ## Primavera 2021
 
-*El presente repositorio contiene todos los materiales para las clases prácticas del curso Teoría y Estructura Económica del Grado de Periodismo en la Universitat Autònoma de Barcelona.*
+**EN**: This repository contains all course material for practical classes of Economic Theory and Structure of the Journalism grade in the Universitat Autònoma de Barcelona. Content is entirely in Spanish.
+
+**ES**: Este repositorio contiene todos los materiales para las clases prácticas del curso Teoría y Estructura Económica del Grado de Periodismo en la Universitat Autònoma de Barcelona.
+
+**CA**: Aquest repositori conté tots els materials per a les classes pràctiques de el curs Teoria i Estructura Econòmica de l'Grau de Periodisme a la Universitat Autònoma de Barcelona. Els continguts estan enterament en Castellà.
 
 ### Objectivo del curso
 Se trata de una asignatura de primer ciclo que provee una formación básica en el ámbito económico. No se presupone ningún tipo de formación económica previa.
