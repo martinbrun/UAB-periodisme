@@ -115,7 +115,7 @@ En los casos que el estudiante no pueda asistir a las prueba escrita de final de
 
 Juan Torres, 'Introducción a la Economía'. Piramide 2012
 
-*Libros de texto recomendados*: 
+**Libros de texto recomendados**: 
 
 Paul Krugman, Robert Wells & Katheryn Graddy, 'Fundamentos de Economía', Editorial Reverté, 2013.
 
