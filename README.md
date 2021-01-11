@@ -51,29 +51,30 @@ Explicar el funcionamiento de la empresa en el contexto de la economía general.
 Reconocer la dimensión económica de las industrias culturales y comunicativas.
 
 ### Contenidos
-Tema 1: Conceptos básicos de economía. Micro y macroeconomía
 
-Tema 2: Los agregados económicos. Las instituciones internacionales.
+Tema 1: La economía y la ciencia económica. 
 
-Tema 3: El mercado. Oferta y demanda. Precios. tipo mercado
+Tema 2: La actividad económica. 
 
-Tema 4: Las fallas del mercado. externalidades.
+Tema 3: La economía de mercado y la teoría elemental de la demanda y la oferta.
 
-Tema 5: El mercado laboral. El paro.
+Tema 4: Diferentes tipos de mercados. 
 
-Tema 6: El análisis macroeconómico. Modelos macroeconómico y políticas.
+Tema 5: Los mercados de factores y la distribución de la renta.
 
-Tema 7: La intervención del sector público y políticas económicas.
+Tema 6: Los límites de la economía de mercado. 
 
-Tema 8: La política fiscal, el déficit y la deuda pública.
+Tema 7: Relaciones y magnitudes macroeconómicas. 
 
-Tema 9: La política monetaria y el sistema financiero.
+Tema 8: Introducción al análisis macroeconómico. 
 
-Tema 10: El comercio internacional y los pagos internacionales.
+Tema 9: La demanda interior. 
 
-Tema 11: La integración económica. La Unión Europea y el Euro.
+Tema 10: El dinero y la política monetaria.
 
-Tema 12: Los grandes problemas económicos.
+Tema 11: El comercio exterior y los pagos internacionales. 
+
+Tema 12: Los grandes problemas económicos y su solución. 
 
 ### Metodología
 El tipo de docencia planificada es la docencia presencial.
