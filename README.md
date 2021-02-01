@@ -1,8 +1,10 @@
 # Teoria i Estructura Econòmica
 
-## Facultat de Ciències de la Comunicació
-## Universitat Autònoma de Barcelona
-## Primavera 2021
+Facultat de Ciències de la Comunicació
+
+Universitat Autònoma de Barcelona
+
+Primavera 2021
 
 **EN**: This repository contains all course material for practical classes of Economic Theory and Structure (group B: surname starting from G to Patiño) of the Journalism grade in the Universitat Autònoma de Barcelona. Content is entirely in Spanish.
 
@@ -10,7 +12,7 @@
 
 **CA**: Aquest repositori conté tots els materials per a les classes pràctiques de el curs Teoria i Estructura Econòmica (grup B: cognoms començant amb G fins Patiño) de l'Grau de Periodisme a la Universitat Autònoma de Barcelona. Els continguts estan enterament en Castellà.
 
-### Objectivo del curso
+## Objectivo del curso
 Se trata de una asignatura de primer ciclo que provee una formación básica en el ámbito económico. No se presupone ningún tipo de formación económica previa.
 
 Los contenidos de la asignatura incluyen una introducción a las estructuras básicas de la economía contemporánea, incluyendo los mecanismos de funcionamiento del mercado y el papel de los principales agentes sociales a los fenómenos económicos locales y globales. También se analiza el proceso de internacionalización de la economía española.
@@ -29,7 +31,7 @@ Los objetivos formativos de la asignatura se pueden sintetizar en los siguientes
 
 El contenido de la asignatura será sensible a los aspectos relacionados con la perspectiva de género.
 
-### Competencias
+## Competencias
 Aplicar el pensamiento científico con rigor.
 
 Demostrar un conocimiento adecuado del mundo contemporáneo y su evolución histórica reciente en las dimensiones social, económica, política y cultural.
@@ -50,7 +52,7 @@ Explicar el funcionamiento de la empresa en el contexto de la economía general.
 
 Reconocer la dimensión económica de las industrias culturales y comunicativas.
 
-### Contenidos
+## Contenidos
 
 Tema 1: La economía y la ciencia económica. 
 
@@ -76,7 +78,7 @@ Tema 11: El comercio exterior y los pagos internacionales.
 
 Tema 12: Los grandes problemas económicos y su solución. 
 
-### Metodología
+## Metodología
 El tipo de docencia planificada es la docencia presencial.
 
 El desarrollo del curso se basa en las siguientes actividades:
@@ -93,7 +95,7 @@ La docencia docente propuesta puede experimentar alguna modificación en funció
 
 La evaluación propuesta puede experimentar alguna modificación en función de las restricciones a la presencialidad que imposinles autoridades sanitarias.
 
-### Evaluación
+## Evaluación
 
 La evaluación de la asignatura se llevará a cabo de manera continua a lo largo del curso teniendo en cuenta los siguientes criterios: Para aprobar la asignatura será imprescindible obtener una media igual o superior a 5. A lo largo del curso se realizarán un mínimo de 3 pruebas escritas, que contarán en total un 75% en la nota final. Se prevé que la primera prueba se realizará en la sesión 5, la segunda en la 10, y la última en la sesión 15.
 
@@ -110,7 +112,7 @@ Los no presentados: Los estudiantes que inicien el proceso de evaluación contin
 
 En los casos que el estudiante no pueda asistir a las prueba escrita de final de curso y se justifique debidamente, el profesor establecerá los mecanismos de recuperación. No existirá recuperación para las pruebas escritas parciales, que se recuperan en la prueba escrita final.
 
-### Bibliografía
+## Bibliografía
 
 **Libro de texto obligatorio**: 
 
