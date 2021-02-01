@@ -1,10 +1,8 @@
 # Teoria i Estructura Econòmica
 
-Facultat de Ciències de la Comunicació
-
-Universitat Autònoma de Barcelona
-
-Primavera 2021
+### Facultat de Ciències de la Comunicació
+### Universitat Autònoma de Barcelona
+### Primavera 2021
 
 **EN**: This repository contains all course material for practical classes of Economic Theory and Structure (group B: surname starting from G to Patiño) of the Journalism grade in the Universitat Autònoma de Barcelona. Content is entirely in Spanish.
 
