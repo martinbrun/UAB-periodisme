@@ -4,11 +4,11 @@
 ### Universitat Autònoma de Barcelona
 ### Primavera 2021
 
-**EN**: This repository contains all course material for practical classes of Economic Theory and Structure (group B: surname starting from G to Patiño) of the Journalism grade in the Universitat Autònoma de Barcelona. Content is entirely in Spanish.
+**EN**: This repository contains all course material for practical classes of Economic Theory and Structure (group B: surname starting from F to Patiño) of the Journalism grade in the Universitat Autònoma de Barcelona. Content is entirely in Spanish.
 
-**ES**: Este repositorio contiene todos los materiales para las clases prácticas del curso Teoría y Estructura Económica (grupo B: apellidos empezando con G hasta Patiño) del Grado de Periodismo en la Universitat Autònoma de Barcelona.
+**ES**: Este repositorio contiene todos los materiales para las clases prácticas del curso Teoría y Estructura Económica (grupo B: apellidos empezando con F hasta Patiño) del Grado de Periodismo en la Universitat Autònoma de Barcelona.
 
-**CA**: Aquest repositori conté tots els materials per a les classes pràctiques de el curs Teoria i Estructura Econòmica (grup B: cognoms començant amb G fins Patiño) de l'Grau de Periodisme a la Universitat Autònoma de Barcelona. Els continguts estan enterament en Castellà.
+**CA**: Aquest repositori conté tots els materials per a les classes pràctiques de el curs Teoria i Estructura Econòmica (grup B: cognoms començant amb F fins Patiño) de l'Grau de Periodisme a la Universitat Autònoma de Barcelona. Els continguts estan enterament en Castellà.
 
 ## Objectivo del curso
 Se trata de una asignatura de primer ciclo que provee una formación básica en el ámbito económico. No se presupone ningún tipo de formación económica previa.
